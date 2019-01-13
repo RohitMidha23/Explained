@@ -2,6 +2,11 @@ This is a repo that explains a lot of stuff that I'm currently working on.
 
 Most of the stuff here is in  **Jupyter-Notebooks**.
 
+For those of you who don't know what Jupyter-Notebooks are and still want to read content, you can do so [here](https://rohitmidha23.github.io/Introduction-to-Pandas/). 
+
+**Note:** 
+Not all content in my Github is present at the above link.
+
 ## Using Jupyter - Notebooks
 ### Prerequisites : 
 1. Python 
